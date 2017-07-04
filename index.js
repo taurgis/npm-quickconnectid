@@ -1,5 +1,5 @@
 /*
- * js-quickconnectid v0.2 (https://github.com/taurgis/js-quickconnectid)
+ * nmp-quickconnectid v0.2 (https://github.com/taurgis/js-quickconnectid)
  *
  * Copyright 2017, Thomas Theunen
  * https://www.thomastheunen.eu

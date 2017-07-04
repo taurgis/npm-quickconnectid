@@ -1,5 +1,5 @@
 {
-  "name": "synology-quickconnect",
+  "name": "quickconnectid",
   "version": "1.0.0",
   "description": "A module to fetch a Synology NAS url based on a QuickConnect ID.",
   "main": "index.js",
