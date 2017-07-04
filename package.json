@@ -1,0 +1,26 @@
+{
+  "name": "synology-quickconnect",
+  "version": "1.0.0",
+  "description": "A module to fetch a Synology NAS url based on a QuickConnect ID.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taurgis/npm-quickconnectid.git"
+  },
+  "keywords": [
+    "synology",
+    "quickconnect"
+  ],
+  "author": "Thomas Theunen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taurgis/npm-quickconnectid/issues"
+  },
+  "homepage": "https://github.com/taurgis/npm-quickconnectid#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
