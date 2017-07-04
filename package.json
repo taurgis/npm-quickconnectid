@@ -1,6 +1,6 @@
 {
   "name": "quickconnectid",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A module to fetch a Synology NAS url based on a QuickConnect ID.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,10 @@
   },
   "keywords": [
     "synology",
-    "quickconnect"
+    "quickconnect",
+    "synology quickconnect",
+    "quick connect",
+    "quickconnect synology"
   ],
   "author": "Thomas Theunen",
   "license": "MIT",
